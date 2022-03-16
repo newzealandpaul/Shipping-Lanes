@@ -37,7 +37,7 @@ Please get in touch with me. My email is in my [Github Profile](https://github.c
 
 ## Please Cite
 
-Benden, Paul. (2022). Global Shipping Lanes [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6361763
+Benden, P. (2022). Global Shipping Lanes [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6361763
 
 ## See Also
 
