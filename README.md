@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/470472856.svg)](https://zenodo.org/badge/latestdoi/470472856)
 
-This geospatial datasets contains global shipping lanes / routes. The shipping routes are georeferenced from the famous [Map of The Worls Oceans, October 2012](https://www.loc.gov/item/2013591571/) created by the [Central Intelligence Agency](https://www.cia.gov/), along with changes that fix problems with the original map. This map will evolve as further edits cause it to deviate from the original CIA map.
+This geospatial datasets contains global shipping lanes / routes. The shipping routes are georeferenced from the [Map of The Worlds Oceans, October 2012](https://www.loc.gov/item/2013591571/) map created by the [Central Intelligence Agency](https://www.cia.gov/), along with changes that fix problems with the original map. This map will evolve as further edits cause it to deviate from the original CIA map.
 
 Licensed under a custom [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by/4.0/) that explicitly excludes Statista.
 
