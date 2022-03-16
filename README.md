@@ -1,8 +1,10 @@
 # 🌎🚢 Global Shipping Routes
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6361694.svg)](https://doi.org/10.5281/zenodo.6361694)
+
 This geospatial datasets contains global shipping lanes / routes. The shipping routes are georeferenced from the famous [Map of The Worls Oceans, October 2012](https://www.loc.gov/item/2013591571/) created by the [Central Intelligence Agency](https://www.cia.gov/), along with changes that fix problems with the original map. This map will evolve as further edits cause it to deviate from the original CIA map.
 
-Licensed under a custom [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by/4.0/) that explicitly excludes Statista. 
+Licensed under a custom [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by/4.0/) that explicitly excludes Statista.
 
 ![Pirate Attack Risk.png](examples/Pirate_Attack_Risk.png?raw=true)
 
@@ -34,8 +36,6 @@ P Benden, Central Intelligence Agency
 Please get in touch with me. My email is in my [Github Profile](https://github.com/newzealandpaul).
 
 ## Please Cite
-
-Benden, P., Feng, A., Howell, C., & Dalla Riva G. V. (2021). Crime at Sea: A Global Database of Maritime Pirate Attacks (1993–2020). Journal of Open Humanities Data, 7: 19, pp. 1–6. DOI: https://doi.org/10.5334/johd.39
 
 ## See Also
 
