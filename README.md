@@ -1,6 +1,6 @@
-# 🌎🚢 Global Shipping Routes
+# 🌎🚢 Global Shipping Lanes / Routes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6361694.svg)](https://doi.org/10.5281/zenodo.6361694)
+[![DOI](https://zenodo.org/badge/470472856.svg)](https://zenodo.org/badge/latestdoi/470472856)
 
 This geospatial datasets contains global shipping lanes / routes. The shipping routes are georeferenced from the famous [Map of The Worls Oceans, October 2012](https://www.loc.gov/item/2013591571/) created by the [Central Intelligence Agency](https://www.cia.gov/), along with changes that fix problems with the original map. This map will evolve as further edits cause it to deviate from the original CIA map.
 
